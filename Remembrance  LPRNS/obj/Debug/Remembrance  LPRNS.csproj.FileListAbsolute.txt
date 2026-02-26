@@ -1,0 +1,11 @@
+C:\Users\Matt\source\repos\Remembrance  LPRNS\obj\Debug\Remembrance  LPRNS.csproj.AssemblyReference.cache
+C:\Users\Matt\source\repos\Remembrance  LPRNS\obj\Debug\Remembrance  LPRNS.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\Remembrance  LPRNS\bin\Debug\Remembrance  LPRNS.dll
+C:\Users\Matt\source\repos\Remembrance  LPRNS\bin\Debug\Remembrance  LPRNS.pdb
+C:\Users\Matt\source\repos\Remembrance  LPRNS\bin\Debug\LSPD First Response.dll
+C:\Users\Matt\source\repos\Remembrance  LPRNS\bin\Debug\RagePluginHookSDK.dll
+C:\Users\Matt\source\repos\Remembrance  LPRNS\bin\Debug\System.Data.SQLite.dll
+C:\Users\Matt\source\repos\Remembrance  LPRNS\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Matt\source\repos\Remembrance  LPRNS\obj\Debug\Remembrance  LPRNS.csproj.CopyComplete
+C:\Users\Matt\source\repos\Remembrance  LPRNS\obj\Debug\Remembrance  LPRNS.dll
+C:\Users\Matt\source\repos\Remembrance  LPRNS\obj\Debug\Remembrance  LPRNS.pdb
